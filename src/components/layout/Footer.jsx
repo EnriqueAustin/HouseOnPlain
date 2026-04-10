@@ -87,7 +87,7 @@ export default function Footer() {
 
         <div className="border-t border-background/10 mt-12 pt-8 text-center">
           <p className="text-sm text-background/40">
-            © {new Date().getFullYear()} House On Plein. All rights reserved. Historic accommodation in Paarl Winelands since 1833.
+            © {new Date().getFullYear()} House On Plein. All rights reserved. Historic accommodation in Paarl Winelands since 1833. Designed by Austin from IgnisIntellect.com
           </p>
         </div>
       </div>
