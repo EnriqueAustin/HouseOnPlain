@@ -11,7 +11,7 @@ export default function HeroSection() {
       {/* Background */}
       <div className="absolute inset-0">
         <img
-          src={IMAGES.heroExterior}
+          src={IMAGES.kitchen}
           alt="House On Plein - Historic Victorian Guest House in Paarl"
           className="w-full h-full object-cover"
         />
